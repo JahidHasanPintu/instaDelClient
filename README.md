@@ -6,8 +6,6 @@
 - **Mapbox Api**
 - **Tailwind CSS Styled Components**
 - **Firebase Authentication** (By `Google Login / Logout`)
-- **Fully Mobile Responsive Friendly (App Version)**
-- **Use Car's Details from JSON** 
 
 ## Features:
 
